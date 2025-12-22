@@ -1,4 +1,4 @@
-# todo-list-js
+# todo-list-js Task 2
 Live Website Link:
 https://itz-swetha.github.io/todo-list-js/
 
